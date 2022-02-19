@@ -19,11 +19,8 @@ $ git clone [url]
 
 https://www.ruanyifeng.com/blogimg/asset/2015/bg2015120901.png
 
-Workspace：工作区
-
-Index / Stage：暂存区
-
-Repository：仓库区（或本地仓库）
-
-Remote：远程仓库
+1. Workspace：工作区
+1. Index / Stage：暂存区
+1. Repository：仓库区（或本地仓库）
+1. Remote：远程仓库
 
