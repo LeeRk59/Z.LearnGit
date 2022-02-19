@@ -225,3 +225,8 @@ https://www.ruanyifeng.com/blogimg/asset/2015/bg2015120901.png
 1. Repository：仓库区（或本地仓库）
 1. Remote：远程仓库
 
+# 参考资料
+```
+1. 阮一峰个人博客，http://www.ruanyifeng.com/blog/2015/12/git-cheat-sheet.html
+2. 廖雪峰个人博客，https://www.liaoxuefeng.com/wiki/896043488029600/896067008724000
+```
