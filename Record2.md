@@ -1,4 +1,4 @@
-#操作过程记录
+# 操作过程记录
 ```
 # 删除已有的origin
 % git remote rm origin
